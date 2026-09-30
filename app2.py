@@ -3,4 +3,4 @@ num2 = int(input("Enter second number: "))
 
 multiply = num1 * num2
 
-print("The sum is:", result)
+print("The multiplication is:", result)
